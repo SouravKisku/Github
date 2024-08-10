@@ -1,20 +1,6 @@
-Hello Sir!
-
-This is an example!!!
-
-
-This is the 3rd line....
-
-
-This is me writing the 4th line
-
-This is the 5th line!!!!!!!❤
-
-This is the 6th one!!!!!!!
-
-
-This one is last...............
+https://github.dev/SouravKisku/Github/blob/main/index.txt
 
 
 
-This is from github......
+Link to Github Browser..... 
+Same file...
